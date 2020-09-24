@@ -10,8 +10,8 @@ The base.html file contains base layout which is inherited in index and update p
 ```pip3 install virtualenv```
 
 <b>Follow these steps for ease after installing virtual environment</b></br>
-```virtual env```</br>
-```source env\bin\activate``` <i>for activating</i></br>
+```virtualenv env```</br>
+```source env/bin/activate``` <i>for activating</i></br>
 ```pip3 install flask flask-sqlalchemy```</br>
 ```python3 'filename.py'``` <i>for running the code in local host</i></br>
 
