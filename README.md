@@ -10,9 +10,9 @@ The base.html file contains base layout which is inherited in index and update p
 ```pip3 install virtualenv```
 
 <b>Follow these steps for ease after installing virtual environment</b></br>
-```virtualenv env```</br>
-```source env/bin/activate``` <i>for activating</i></br>
-```pip3 install flask flask-sqlalchemy```</br>
-```python3 'filename.py'``` <i>for running the code in local host</i></br>
+1. ```virtualenv env```</br>
+2. ```source env/bin/activate``` <i>for activating</i></br>
+3. ```pip3 install flask flask-sqlalchemy```</br>
+4. ```python3 'filename.py'``` <i>for running the code in local host</i></br>
 
 <i>[Play with the app](https://flaskbasiccrudtaskmaster.herokuapp.com)</i> deployed on Heroku platform
