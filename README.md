@@ -2,7 +2,7 @@
 
 You can refer app.py for flask syntax -> Basic Insert,Update & Delete</br>
 The base.html file contains base layout which is inherited in index and update pages</br>
-<i>Simple and efficient way to get started with flask.</i></br>
+<i>Simple and efficient way to get started with flask :smiley:.</i></br>
 
 <b>Refer <i>[requirement file](https://github.com/DeepakVelmurugan/FlaskIntro/blob/master/requirements.txt)</i></b> for necessary packages required</br>
 
